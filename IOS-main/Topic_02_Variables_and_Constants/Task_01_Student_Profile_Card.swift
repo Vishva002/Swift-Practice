@@ -1,5 +1,5 @@
 import Foundation
-let studentName = "Joe"
+let studentName = "vishva"
 let rollNumber: Int = 2301
 var semester: Int = 5
 var cgpa: Double = 8.51
